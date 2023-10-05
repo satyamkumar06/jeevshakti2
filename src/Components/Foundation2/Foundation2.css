@@ -1,0 +1,44 @@
+.foundation2-container{
+    background-color: #F9F9DA;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+p{
+    font-family: 'Montserrat';
+    font-size: 28px;
+}
+.about-image{
+    height: 40%;
+    width: 130%;
+    border-radius: 12px;
+    object-fit: cover; 
+    margin-left: 4%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.About-style{
+    color: #1A7431;
+    font-weight: 700;
+}
+.learn-more{
+    color:  #1A7431;
+    text-decoration: underline;
+}
+.more{
+    color:  #1A7431;
+}
+.foundation2-left{
+    width: 30%;
+}
+.foundation2-right{
+    position: relative;
+    right: 5%;
+    width: 50%;
+
+}
+

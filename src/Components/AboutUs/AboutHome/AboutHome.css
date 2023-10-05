@@ -1,0 +1,31 @@
+.about-home-container{
+    height: 90vh;
+    background-image: url('../../../assest/images/aboutgroup.png');
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.about-our{
+    color: white;
+    font-weight: 200;
+    font-size: 65px;
+    font-family: 'Montserrat';
+    text-decoration: underline;
+}
+.about-story{
+    color: white;
+    font-weight: 700;
+    font-size: 65px;
+    font-family: 'Montserrat';
+}
+.about-page-header{
+    position: relative;
+    top: 55%;
+    left: 40%;
+    width: 30%;
+
+}
+.trans-about-image{
+    position: absolute;
+    height: 90vh;
+    width: 100%;
+}

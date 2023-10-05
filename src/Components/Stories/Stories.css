@@ -1,0 +1,70 @@
+.Stories-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 6%;
+    height: 40vh;
+
+}
+.all-stories {
+    height: 50px;
+    width: 60%;
+    padding: 8px 20px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    border:  #1A7431 ;
+   background-color:  #1A7431;
+   font-family: 'Montserrat';
+   margin-left: 20%;
+
+}
+.stories-right{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40vh;
+    width: 50%;
+    margin-left: 5%;
+   
+}
+.stories-left{
+    width: 50%;
+   
+}
+.stories-image-one{
+    height: 80%;
+    width: 30%;
+    background-image: url('../../assest/images/firsrt.png');
+    background-repeat: no-repeat;
+    object-fit: cover;
+   
+}
+.stories-image-two{
+    height: 80%;
+    width: 30%;
+    background-image: url('../../assest/images/second.png');
+    background-repeat: no-repeat;
+    object-fit: cover;
+   
+}
+.stories-image-three{
+    height: 80%;
+    width: 30%;
+    background-image: url('../../assest/images/third.png');
+    background-repeat: no-repeat;
+    object-fit: cover;
+   
+}
+.view-stories{
+    padding: 8px 20px;
+    font-size: 18px;
+    color:  #1A7431;
+    cursor: pointer;
+    border: solid 1px #1A7431  ;
+   background-color:  transparent #FFFFFF;
+   font-family: 'Montserrat';
+   position: relative;
+   left: 22%;
+   top: 80%;
+}

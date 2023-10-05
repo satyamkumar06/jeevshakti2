@@ -1,0 +1,40 @@
+.join-tittle{
+    color: #1A7431;
+    font-weight: 900;
+    font-size: 48px;
+    font-family: 'Montserrat';
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10%;
+}
+.join-line{
+    color: #1A7431;
+    width: 700;
+    font-size: 28px;
+    font-family: 'Montserrat';
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+
+}
+.join-button{
+    padding: 8px 20px;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    color: white;
+    cursor: pointer;
+    border: #1A7431;
+    height: 55px;
+    width: 220px;
+   background-color: #1A7431;
+   margin-left: 44%;
+   margin-top: 2%;
+
+}
+.join-container{
+    background-color: #F0FFF4;
+    margin-top: 5%;
+    height: 45vh;
+
+}

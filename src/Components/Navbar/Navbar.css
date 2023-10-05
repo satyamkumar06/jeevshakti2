@@ -1,0 +1,102 @@
+.container{
+    background-color: #FFFFFF;
+    color: #1A7431;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.left-logo{
+    position: relative;
+    left: 5%;
+}
+.middle-nav{
+    display: flex;
+    font-family: 'Montserrat';
+}
+.homepara{
+    font-weight: 700;
+    font-family: 'Montserrat';
+    color: #1A7431;
+}
+
+
+.middle-nav > p {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 8px 10px;
+    font-size: 18px;
+   
+}
+.middle-nav > p:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.donation {
+    height: 50px;
+    width: 160px;
+    padding: 8px 20px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    border: #1A7431;
+   background-color: green;
+
+}
+.logo{
+    margin-bottom: 5px;
+}
+label btn{
+    font-size: 30px;
+    float: right;
+}
+
+.hamburger-menu{
+    display: none;
+}
+.right-nav{ 
+    position: relative;
+    right: 5%;
+}
+
+
+
+@media(max-width:998px){
+
+    .middle-nav{
+        display: none;
+    }
+    .right-nav{
+        display: none;
+    }
+    .logo{
+        height: 40px;
+        width: 150px;
+    }
+    .container{
+        margin-left: 0.5px;
+        margin-right: 0.5px;
+    }
+    .hamburger-menu{
+        display: block;
+        font-size: 2.5rem;
+    }
+    .mobile-menu-link{
+        grid-column: 2/4;
+        position: relative;
+        z-index: 99;
+    }
+    .mobile-menu-link{
+        background-color: white;
+        height: 35rem;
+        display: grid;
+        grid-column: 2/5;
+        align-items: center;
+        padding-left: 3rem;
+        transition: all 2s linear;
+        transform-origin: top;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px , rgba(0,0,0,0.3)  0px 30px 60px -30px; 
+    }
+    
+}

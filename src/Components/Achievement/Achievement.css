@@ -1,0 +1,90 @@
+.Achievements-tittle-achieve{
+    color: #1A7431;
+    font-weight: 600;
+    font-size: 45px;
+    font-family: 'Montserrat';
+    text-decoration: underline;
+    margin-left: 37%;
+}
+.Achievements-tittle-ments{
+    color: #1A7431;
+    font-weight: 600;
+    font-size: 45px;
+    font-family: 'Montserrat';
+}
+.year{
+    color: #1A7431;
+    font-weight: 100;
+    letter-spacing: 0.2rem;
+    font-size: 35px;
+    font-family: 'Montserrat';
+}
+
+
+.Achievements-main-container{
+    background-color: #F0FFF4;
+    margin-top: 5%;
+    height: 90vh;
+   
+}
+
+
+
+.container-achievements{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+}
+.middle-container-A{
+    background-color: white;
+}
+.left-container-A{
+    background-color: white;
+    margin-left: 5%;
+}
+.right-container-A{
+    background-color: white;
+    margin-right: 5%;
+}
+.make-doanation{
+    padding: 8px 20px;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    color: white;
+    cursor: pointer;
+    border: #1A7431;
+    height: 60px;
+    width: 200px;
+   background-color: #1A7431;
+   margin-top: 3%;
+   margin-left: 43%;
+}
+
+.achievements-three-hundred{
+    color: #1A7431;
+    font-weight: 900;
+    font-size: 38px;
+    font-family: 'Montserrat';
+    display: flex;
+    justify-content: center;
+    margin: 0;
+
+}
+.achievements-rescue{
+    color: #1A7431;
+    width: 700;
+    font-size: 28px;
+    font-family: 'Montserrat';
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 8px;
+}
+.achievements-image{
+    padding: 15px;
+    width: 70%;
+    height: 60%;
+    margin-left: 9%;
+}

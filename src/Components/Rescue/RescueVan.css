@@ -1,0 +1,85 @@
+.Rescue-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+    background-color: #F9F9DA;
+    height: 80vh;
+}
+.van-image{
+    height: 95%;
+    width: 105%;
+
+}
+.rescue-para{
+    background-color: white;
+    font-size: 25px;
+}
+
+
+.Rescue-header-tittle{
+    display: flex;
+    justify-content: center;
+    background-color: #F9F9DA;
+    margin-top: 5%;
+    
+}
+.Rescue-header{
+    color: #1A7431;
+    width: 700;
+    font-size: 50px;
+    line-height: 110.45px;
+    text-decoration: underline; 
+    font-family: 'Montserrat';
+}
+.rescue-header-van{
+    color: #1A7431;
+    width: 2100;
+    letter-spacing: 0.2rem;
+    font-family: 'Montserrat';
+    
+}
+.rescue-tittle-escue{
+    color: #1A7431;
+    width: 700;
+    font-size: 50px;
+    line-height: 110.45px;
+    font-family: 'Montserrat';
+}
+.rescue-right-list{
+    margin-left: 20%;
+    margin-right: 20%;
+    color: #1A7431;
+    font-size: 25px;
+    
+}
+.rescue-right{
+    width: 55%;
+    height: 70%;
+    position: relative;
+    right: 5%;
+    bottom: 10%;
+}
+.rescue-left{
+   position: relative;
+   left: 5%;
+   bottom: 20%;
+    width: 30%;
+    height: 55%;
+    
+  
+ }
+ .rescue-left-paragraph{
+    background-color: white;
+    width: 100%;
+    height: 90%;
+    align-items: center;
+}
+.call-rescue{
+    padding: 8px 20px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+   border: none;
+   background-color: green;
+   margin-top: 25%;
+}

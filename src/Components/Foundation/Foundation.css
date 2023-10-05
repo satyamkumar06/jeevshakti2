@@ -1,0 +1,49 @@
+.foundation-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50vh;
+    width: 100%;
+}
+p{
+    color: #00380E;
+    font-size: 28px;
+    font-weight: 500;
+    font-family: 'Montserrat';
+}
+.jeevshakti-tittle{
+    font-weight: 700;
+    font-size: 40px;
+    color: #1A7431;
+    text-decoration: underline;
+}
+.akti{
+    font-weight: 700;
+    font-size: 40px;
+    color: #1A7431;
+
+}
+.foundation-tittle{
+    font-weight: 300;
+    font-size: 30px;
+    color: #1A7431;
+    letter-spacing: 0.2em;
+}
+.foundation-left{
+    position: relative;
+    left: 5%;
+    width: 60%;
+}
+.foundation-right{
+    position: relative;
+    right: 5%;
+    width: 30%;
+    margin-left: 5%;
+}
+.mainlogo1{
+    height: 30%;
+    width: 85%;
+    margin-top: 20%;
+    object-fit: cover;
+    margin-left: 10%;
+}

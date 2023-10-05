@@ -1,0 +1,56 @@
+.homepage-container{
+    background-color:#DEFEE6;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70vh;
+}
+.homepage-donation {
+    padding: 8px 20px;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    color: white;
+    cursor: pointer;
+    border: #1A7431;
+    height: 60px;
+    width: 200px;
+   background-color: #1A7431;
+   margin-top: 5%;
+
+}
+.homepage-left{
+    width: 350px;
+    position: relative;
+    left: 5%;
+}
+.homepage-text1{
+    color: green;
+    font-family: 'Montserrat';
+}
+.homepage-text2{
+    color: black;
+    font-family: 'Montserrat';
+}
+.dog-image{
+    height: 500px;
+    width: 900px;
+    overflow: hidden;
+    
+}
+.homepage-right{
+    position: relative;
+    right: 5%;
+}
+@media(max-width: 768px){
+    .homepage-container{
+        display: block;
+    }
+    .homepage-left{
+        text-align: center;
+    }
+    .dog-image{
+        height: 400px;
+        width: 500px;
+        
+    }
+}

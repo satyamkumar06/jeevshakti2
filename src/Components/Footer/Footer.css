@@ -1,0 +1,120 @@
+.footer-container{
+    background-color: #00380E;
+    color: white;
+    height: 110vh;
+ }
+ .footer-nav{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+ }
+ .footer-para{
+     color: white;
+ }
+ .footer-logo{
+     margin-left: 8%;
+     height: 60%;
+     width: 80%;
+     object-fit: cover;
+ }
+ .foooter-left-nav{
+     margin-top: 5%;
+     margin-left: 5%;
+ }
+ .footer-middle-nav{
+     margin-top: 3%;
+     margin-right: 8%;
+     
+ }
+ .footerjeevshakti{
+     font-size: 65px;
+     font-family: 'Montserrat';
+    
+ }
+ .footer-founda{
+     text-decoration: underline;
+     letter-spacing: 1rem;
+     font-size: 40px;
+     font-weight: 100;
+     font-family: 'Montserrat';
+ }
+ .footer-tion{
+     letter-spacing: 0.2rem;
+     font-size: 40px;
+     font-weight: 100;
+     font-family: 'Montserrat';
+ }
+ .footer-right-nav{
+     margin-top: 3%;
+     margin-right: 12%;
+ }
+ .footer-para{
+     font-family: 'Montserrat';
+ }
+ .footer-hompage{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+ }
+ 
+ .footer-hompage-para{
+     font-size: 20px;
+     color: white;
+     font-family: 'Montserrat';
+ }
+ .footer-dontaion{
+     padding: 8px 20px;
+     font-size: 18px;
+     font-family: 'Montserrat';
+     color: white;
+     cursor: pointer;
+     border: #1A7431;
+     height: 60px;
+     width: 100%;
+    background-color: #1A7431;
+    margin-top: 5%;
+ }
+ 
+ .footer-homepage-middle{
+     margin-top: 2%;
+ }
+ .footer-homepage-right{
+     margin-right: 5%;
+ }
+ .footer-homepage-left{
+     width: 25%;
+     margin-left: 8%;
+     
+ }
+ .footer-lastline-para{
+     font-size: 18px;
+     color: white;
+     font-family: 'Montserrat';
+     margin-left: 32%;
+     margin-top: 5%;
+     
+ }
+ .footer-social{
+     height: 30px;
+     width: 30px;
+     margin-left: 4%;
+ }
+ .footer-social-youtube{
+     height: 35px;
+     width: 30px;
+     margin-left: 18%;
+ }
+ .footer-location{
+     height: 35px;
+     width: 30px;
+ }
+ .footer-phone{
+     height: 30px;
+     width: 30px;
+ }
+ .footer-space{
+     margin-left: 0.5em;
+ }
+ .footer-spaces{
+     margin-left: 2.2em;
+ }
